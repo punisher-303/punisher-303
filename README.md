@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 [![Anand's github stats](https://github-readme-stats.vercel.app/api?username=punisher-303&count_private=true&show_icons=true&theme=shadow_red&hide_rank=false)](https://github.com/punisher-303/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher-303&hide_progress=true&theme=chartreuse-dark)](https://github.com/punisher-303/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher-303&layout=compact&theme=chartreuse-dark)](https://github.com/punisher-303/github-readme-stats)
 
 ## Use To Code
 
