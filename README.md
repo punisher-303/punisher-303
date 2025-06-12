@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=punisher-303&count_private=true&include_all_commits=ture&show_icons=true&theme=shadow_red&hide_rank=false)](https://github.com/punisher-303/github-readme-stats)
+[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=punisher-303&count_private=true&include_all_commits=false&show_icons=true&theme=shadow_red&hide_rank=false)](https://github.com/punisher-303/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher-303&layout=compact&theme=chartreuse-dark)](https://github.com/punisher-303/github-readme-stats)
 
