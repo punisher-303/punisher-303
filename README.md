@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 [![Orange's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=punisher-303&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/punisher-303/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=punisher-303&theme=radical)](https://github.com/punisher-303/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=punisher-303&theme=radical)](https://github.com/punisher-303/github-readme-stats)
 
 ## Use To Code
 
