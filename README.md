@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anand's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=punisher-303&count_private=true&show_icons=true&theme=ambient_gradient&hide_rank=false)](https://github.com/punisher-303/github-readme-stats)
+[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=punisher-303&count_private=true&show_icons=true&theme=ambient_gradient&hide_rank=false)](https://github.com/punisher-303/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=punisher-303&theme=ambient_gradient)](https://github.com/punisher-303/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher-303&theme=ambient_gradient)](https://github.com/punisher-303/github-readme-stats)
 
 ## Use To Code
 
