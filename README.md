@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=punisher-303&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=punisher-303&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punisher-303&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=punisher-303&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <br/><br/>
 
